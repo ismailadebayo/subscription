@@ -1,6 +1,4 @@
-*{
-    box-sizing: border-box;
-}
+
 /* Small devices (portrait tablets and large phones, 600px and up) */
 
 /* Medium devices (landscape tablets, 768px and up) */
@@ -10,7 +8,7 @@
     margin-left: auto;
     margin-right: auto;
     background-color: whitesmoke;
-    height:100vh;
+    height: 150vh;
     
 }
 body{
@@ -23,6 +21,9 @@ h2, q, p{
 
 #similar-margin{
     margin-left: 10px;
+}
+#last{
+    font-size: larger;
 }
 
 .two5 {
